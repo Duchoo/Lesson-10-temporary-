@@ -20,6 +20,8 @@ ul {
 }
 .main {
   display: flex;
+  margin-top: 60px;
+  justify-content: space-between;
 }
 .logos {
   display: grid;
@@ -30,4 +32,35 @@ p {
   width: 463px;
   height: 240px;
   font-family: HelveticaNeue;
+  font-size: 16px;
+  text-align: left;
 }
+.dots1 {
+  display: flex;
+}
+.dot23 {
+  margin-left: 20px;
+  width: 10px;
+  height: 10px;
+  background-color: #000fff;
+  border-radius: 50%;
+  opacity: 30%;
+}
+.first {
+  margin-left: 655px;
+  width: 10px;
+  height: 10px;
+  background-color: #000fff;
+  border-radius: 50%;
+}
+.dots {
+  display: flex;
+  margin-left: 600px;
+  color: #000fff;
+  width: 10px;
+  height: 10px;
+}
+/* .jeka {
+  display: flex;
+  justify-content: space-between;
+} */
