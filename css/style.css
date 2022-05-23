@@ -18,3 +18,16 @@ ul {
   font-style: normal;
   font-display: swap;
 }
+.main {
+  display: flex;
+}
+.logos {
+  display: grid;
+  grid-gap: 25px;
+  grid-template-columns: auto auto auto;
+}
+p {
+  width: 463px;
+  height: 240px;
+  font-family: HelveticaNeue;
+}
