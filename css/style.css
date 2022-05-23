@@ -61,3 +61,6 @@ p {
   display: flex;
   justify-content: space-between;
 } */
+span {
+  color: #000fff;
+}
